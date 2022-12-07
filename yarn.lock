@@ -1426,10 +1426,10 @@
     ramda "^0.26.1"
     redent "^2.0.0"
 
-"@testing-library/react-native@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-5.0.3.tgz#8821dcf7fe7364bc7f427d853cd96e4407d88a4f"
-  integrity sha512-lQH7vUgwESfagFw4BlKsfpX7Rv/m7h2NYfubY0aoQromSwI1slCxrhwZws8gABTXweob/DyLATsOamHsWdwDnA==
+"@testing-library/react-native@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-6.0.0.tgz#195c3d6e093e248aa5b6949fe8ee7e86222b6b7f"
+  integrity sha512-jLdaEQAH3RC8OtSabrNbpb0qzBOIpKX9xNO0D+83ohfQjY7PZ/3/sX2hMtRB5T7pHChtCrlymYQ5tJcW8Ga1oQ==
   dependencies:
     pretty-format "^24.9.0"
     wait-for-expect "^3.0.0"
@@ -2916,9 +2916,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.3.0:
   version "3.3.0"
